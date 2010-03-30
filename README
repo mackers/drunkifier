@@ -1,0 +1,5 @@
+Drunkifier is a shell script written in perl. It takes input from the keyboard,
+a pipe or a form on a webpage and translates the text into drunken text.
+
+http://www.mackers.com/projects/drunkifier/
+
